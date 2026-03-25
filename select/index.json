@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "産声",
+  "base_artist": "Mr.Children",
+  "createdAt": "2026-03-25T05:19:20.091727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/01_産声_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/02_産声_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "Kikuo",
+      "has_synced": true,
+      "path": "select/03_産声_Kikuo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/04_産声_きくお.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "Miyuki Nakajima",
+      "has_synced": true,
+      "path": "select/05_産声_Miyuki_Nakajima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/06_産声_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "中島みゆき",
+      "has_synced": true,
+      "path": "select/07_産声_中島みゆき.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "きくお feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_産声_きくお_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "きくお",
+      "has_synced": true,
+      "path": "select/09_産声_きくお.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/10_産声_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "産声",
+      "artist": "Masakatsu Takagi",
+      "has_synced": false,
+      "path": "select/11_産声_Masakatsu_Takagi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "産声",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_産声_Mr.Children.txt"
+    }
+  ]
+}
